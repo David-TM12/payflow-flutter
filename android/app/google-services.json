@@ -1,78 +1,49 @@
 {
   "project_info": {
-    "project_number": "617231341143",
-    "project_id": "payflow-rocketseat",
-    "storage_bucket": "payflow-rocketseat.appspot.com"
+    "project_number": "632015255641",
+    "project_id": "payflow-rocketseat-c9fc3",
+    "storage_bucket": "payflow-rocketseat-c9fc3.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:617231341143:android:0a366dcfe011ff384eb512",
+        "mobilesdk_app_id": "1:632015255641:android:e047419c078f477c571948",
         "android_client_info": {
           "package_name": "com.example.payflow"
         }
       },
       "oauth_client": [
         {
-          "client_id": "617231341143-6v3fe5kkrm77nteva4ldrgj24pb4mvrt.apps.googleusercontent.com",
+          "client_id": "632015255641-7j95b6s8rvgc003f3fuidmup1vi09lba.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.payflow",
-            "certificate_hash": "f1714fadc93014bed1c86e4c75e9b443b7d27f4e"
+            "certificate_hash": "a4d35d917b61ba3f14f7326e9375c8d3e2c2591f"
           }
         },
         {
-          "client_id": "617231341143-pdid640ml0fr957rsdo98svkd4ltfa0g.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBQFUFUWL00xgQG78NTFq3unLpprsZtx7E"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "617231341143-pdid640ml0fr957rsdo98svkd4ltfa0g.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:617231341143:android:b7379015c5c406ae4eb512",
-        "android_client_info": {
-          "package_name": "com.example.payflowprevious"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "617231341143-c8j506o0okev3vkmb7pbnn53vfn8ahqe.apps.googleusercontent.com",
+          "client_id": "632015255641-rgbf2t51a0m6kj43autqukvq6eenlgf4.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.payflowprevious",
-            "certificate_hash": "f1714fadc93014bed1c86e4c75e9b443b7d27f4e"
+            "package_name": "com.example.payflow",
+            "certificate_hash": "fcb9239dcc30c459b92e418405c0ff53ce8691c4"
           }
         },
         {
-          "client_id": "617231341143-pdid640ml0fr957rsdo98svkd4ltfa0g.apps.googleusercontent.com",
+          "client_id": "632015255641-evjimmdk1mjihn5q21gasf7qcblroc35.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBQFUFUWL00xgQG78NTFq3unLpprsZtx7E"
+          "current_key": "AIzaSyDx9gbOk4BjWmEuBNnO2AyvuOJZFY7eJRs"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "617231341143-pdid640ml0fr957rsdo98svkd4ltfa0g.apps.googleusercontent.com",
+              "client_id": "632015255641-evjimmdk1mjihn5q21gasf7qcblroc35.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
