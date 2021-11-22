@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:payflow/shared/themes/app_text_style.dart';
+import 'package:payflow/shared/themes/app_text_styles.dart';
 
 class LabelButton extends StatelessWidget {
   final String label;
